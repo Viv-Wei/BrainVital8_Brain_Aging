@@ -1,6 +1,6 @@
 # BrainVital8_Brain_Aging
 
-***Summary of the codes used in the study***
+***A multimodal brain age-derived modifiable risk score for dementia across six cohorts spanning three continents***
 
 
 ## Core codes
